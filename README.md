@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, Angular, RxJS, Accessibility, Web Performance**
 
-- 📄 Know about my experiences [https://resume.io/r/8iHwlvN2H](https://resume.io/r/8iHwlvN2H)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alaael-dinahmedmuhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaael-dinahmedmuhammad" height="30" width="40" /></a>
