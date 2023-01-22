@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alaa El-Din Ahmed</h1>
 <h3 align="left">A product-minded developer who cares about the "Why" - Why build this feature? and How will it help the users?, who have a great passion for Web accessibility, Web performance, and building strong project architecture with all performance techniques.</h3>
 
-- 🌱 I’m currently learning **React, React Native, NestJS**
+- 🌱 I’m currently learning **React Native, NestJS**
 
 - 💬 Ask me about **JavaScript, TypeScript, Angular, RxJS, Accessibility, Web Performance**
 
